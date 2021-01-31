@@ -46,6 +46,6 @@ The quiz game was developed using bootstrap and javascript, it have a clean, pol
 * matachemarius92@gmail.com
 * [Matache Marius](https://github.com/MatacheMarius)
 ##### Directory:
-* [Current Repository)]https://github.com/MatacheMarius/Quiz-Game-JS)
+* [Current Repository](https://github.com/MatacheMarius/Quiz-Game-JS)
 * [Website](https://matachemarius.github.io/Quiz-Game-JS/)
 
